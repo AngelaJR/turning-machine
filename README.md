@@ -30,7 +30,7 @@ Further details about the file format and program:</br>
 • There is no restriction on the state names in terms of how long they are or what characters they contain, except that they can’t contain whitespace or commas.</br>
 • Assume that the tape has no left or right end. Blanks are assumed to be on the tape everywhere that hasn’t been written.
 
-** The project instruction where cerated by Dr. Heinold for the class Theory of computation.
+** The project instruction where cerated by Dr. Heinold for the class Theory of Computation.
 
 
 #### Build With
